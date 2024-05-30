@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+.logo {
+    height: 90px;
+=======
+.logo{
+    height : 90px;
+>>>>>>> 81cf71f8b50428840af399f32885da3c0f9d8409
+}
+.navbar-nav li {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.hero-img {
+<<<<<<< HEAD
+    text-align: center;
+}
+=======
+    text-align: center;
+}
+>>>>>>> 81cf71f8b50428840af399f32885da3c0f9d8409
